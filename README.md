@@ -1,9 +1,14 @@
 #### Hi, I'm Srini 👋
 
-# I'm a Technologist, Developer, Student!
+# I'm a Developer, Blogger, Problem Solver !!
 
 - 👨‍💻 I’m currently working on Microsoft Stack and loads of Open Source Softwares & Tools.
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate on blockchain related projects (Especially Polkadot)
 - 💬 Ask me about Microsoft 365 development challenges and Architecture of SaaS Solutions.
-- 📫 You can reach me on Twitter : @NarulaSrinivas
+- 📫 You can reach me on : [NarulaSrinivas](https://twitter.com/NarulaSrinivas )
+- 🇬🇧 I'm based in [Orpington](https://en.wikipedia.org/wiki/Orpington), near London City.
+
+### Personal Motto
+📖 Try-Fail-Learn!
+🪁 continual incremental improvement 🤩
