@@ -10,5 +10,5 @@
 - 🇬🇧 I'm based in [Orpington](https://en.wikipedia.org/wiki/Orpington), near London City.
 
 ### Personal Motto
-📖 Try-Fail-Learn!
-🪁 continual incremental improvement 🤩
+- 📖 Try-Fail-Learn!
+- 🪁 continual incremental improvement 🤩
