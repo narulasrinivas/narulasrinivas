@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working on Microsoft Stack and loads of Open Source Softwares & Tools.
 - 🌱 I’m currently learning everything 😄
-- 👯 I’m looking to collaborate on blockchain related projects (Especially Polkadot)
+- 👯 I’m looking to collaborate on blockchain related projects (Especially Substrate)
 - 💬 Ask me about Microsoft 365 development challenges and Architecture of SaaS Solutions.
 - 📫 You can reach me on : [NarulaSrinivas](https://twitter.com/NarulaSrinivas )
 - 🇬🇧 I'm based in [Orpington](https://en.wikipedia.org/wiki/Orpington), near London City.
